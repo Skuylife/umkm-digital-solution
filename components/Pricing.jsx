@@ -1,6 +1,6 @@
 export default function Pricing() {
   return (
-    <section className="py-20 bg-white px-6">
+    <section id="pricing" className="py-20 bg-white px-6">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl font-extrabold text-gray-900 mb-4">
           Paket Harga
